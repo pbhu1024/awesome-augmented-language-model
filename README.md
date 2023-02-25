@@ -1,4 +1,4 @@
-# 🔥awesome-augmented-language-model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🔥Awesome Augmented Language Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Large Language models (LLMs) have become a new foundational platform. However, LLMs still struggle to implement many complex tasks that require human-level understanding. This repo collect research papers about leveraging the capabilities of language models, which can be a good reference for building upper-layer applications.
 
 
@@ -617,14 +617,14 @@ Your Work: Scratchpads for Intermediate Computation with Language Models**, 2021
 
 ## Related Project
 - **Prompt API** 
-https://github.com/hwchase17/langchain
- https://promptlayer.com/
-https://github.com/promptslab/Promptify
+    - https://github.com/hwchase17/langchain
+    - https://promptlayer.com/
+    - https://github.com/promptslab/Promptify
 
 
 - **Prompt Reference**
-https://learnprompting.org/
-https://gpt3demo.com/
-https://sharegpt.com/
-https://github.com/dair-ai/Prompt-Engineering-Guide
-https://promptbase.com/
+    - https://learnprompting.org/
+    - https://gpt3demo.com/
+    - https://sharegpt.com/
+    - https://github.com/dair-ai/Prompt-Engineering-Guide
+    - https://promptbase.com/
