@@ -86,6 +86,8 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
 
 
 ### Alignment and RLHF
+- Kwon, Minae and Xie, Sang Michael and Bullard, Kalesha and Sadigh, Dorsa, **Reward Design with Language Models**, 2023 [[Paper]](http://arxiv.org/abs/2303.00001)
+
 - Go, Dongyoung and Korbak, Tomasz and Kruszewski, Germán and Rozen, Jos and Ryu, Nahyeon and Dymetman, Marc, **Aligning Language Models with Preferences through f-divergence Minimization**, 2023 [[Paper]](http://arxiv.org/abs/2302.08215)
 
 - Myers, Vivek and Bıyık, Erdem and Sadigh, Dorsa, **Active Reward Learning from Online Preferences**, 2023 [[Paper]](http://arxiv.org/abs/2302.13507)
@@ -135,6 +137,20 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
  
 ## Prompt
 ### Hard Prompt
+- Kim, Seungone and Joo, Se June and Jang, Yul and Chae, Hyungjoo and Yeo, Jinyoung, **CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification**, 2023 [[Paper]](http://arxiv.org/abs/2303.03628)
+
+- Wei, Jerry and Wei, Jason and Tay, Yi and Tran, Dustin and Webson, Albert and Lu, Yifeng and Chen, Xinyun and Liu, Hanxiao and Huang, Da and Zhou, Denny and Ma, Tengyu, **Larger language models do in-context learning differently**, 2023 [[Paper]](http://arxiv.org/abs/2303.03846)
+
+- Singh, Chandan and Morris, John X. and Aneja, Jyoti and Rush, Alexander M. and Gao, Jianfeng, **Explaining Patterns in Data with Language Models via Interpretable Autoprompting**, 2023 [[Paper]](http://arxiv.org/abs/2210.01848)
+
+- Zhang, Renrui and Hu, Xiangfei and Li, Bohao and Huang, Siyuan and Deng, Hanqiu and Li, Hongsheng and Qiao, Yu and Gao, Peng, **Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**, 2023 [[Paper]](http://arxiv.org/abs/2303.02151)
+
+- Wu, Zhiyong and Wang, Yaoxiang and Ye, Jiacheng and Kong, Lingpeng, **Self-adaptive In-context Learning**, 2022 [[Paper]](http://arxiv.org/abs/2212.10375)
+
+- Lu, Yao and Bartolo, Max and Moore, Alastair and Riedel, Sebastian and Stenetorp, Pontus, **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**, 2022 [[Paper]](http://arxiv.org/abs/2104.08786)
+
+- Wu, Zhenyu and Wang, YaoXiang and Ye, Jiacheng and Feng, Jiangtao and Xu, Jingjing and Qiao, Yu and Wu, Zhiyong, **OpenICL: An Open-Source Framework for In-context Learning**, 2023 [[Paper]](http://arxiv.org/abs/2303.02913)
+
 - Ye, Seonghyeon and Hwang, Hyeonbin and Yang, Sohee and Yun, Hyeongu and Kim, Yireun and Seo, Minjoon, **In-Context Instruction Learning**, 2023 [[Paper]](http://arxiv.org/abs/2302.14691)
 
 - Liu, Hao and Sferrazza, Carmelo and Abbeel, Pieter, **Chain of Hindsight Aligns Language Models with Feedback**, 2023 [[Paper]](http://arxiv.org/abs/2302.02676)
@@ -173,6 +189,8 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
 
 - Khot, Tushar and Richardson, Kyle and Khashabi, Daniel and Sabharwal, Ashish, **Hey AI, Can You Solve Complex Tasks by Talking to Agents?**, 2022 [[Paper]](http://arxiv.org/abs/2110.08542)
 
+- Honovich, Or and Shaham, Uri and Bowman, Samuel R. and Levy, Omer, **Instruction Induction: From Few Examples to Natural Language Task Descriptions**, 2022 [[Paper]](http://arxiv.org/abs/2205.10782)
+
 - Yuan, Weizhe and Liu, Pengfei, **reStructured Pre-training**, 2022 [[Paper]](http://arxiv.org/abs/2206.11147)
 
 - Zhong, Wanjun and Gao, Yifan and Ding, Ning and Qin, Yujia and Liu, Zhiyuan and Zhou, Ming and Wang, Jiahai and Yin, Jian and Duan, Nan, **ProQA: Structural Prompt-based Pre-training for Unified Question Answering**, 2022 [[Paper]](http://arxiv.org/abs/2205.04040)
@@ -199,6 +217,8 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
  
 - Reynolds, Laria and McDonell, Kyle, **Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm**, 2021 [[Paper]](http://arxiv.org/abs/2102.07350)
 
+- Liu, Jiachang and Shen, Dinghan and Zhang, Yizhe and Dolan, Bill and Carin, Lawrence and Chen, Weizhu, **What Makes Good In-Context Examples for GPT-3?**, 2021 [[Paper]](http://arxiv.org/abs/2101.06804)
+
 - Perez, Ethan and Kiela, Douwe and Cho, Kyunghyun, **True Few-Shot Learning with Language Models**, 2021 [[Paper]](http://arxiv.org/abs/2105.11447)
 
 - Gao, Tianyu and Fisch, Adam and Chen, Danqi, **Making Pre-trained Language Models Better Few-shot Learners**, 2021 [[Paper]](http://arxiv.org/abs/2012.15723)
@@ -211,6 +231,10 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
 
 
 ### Soft Prompt
+- Chen, Derek and Lee, Celine and Lu, Yunan and Rosati, Domenic and Yu, Zhou, **Mixture of Soft Prompts for Controllable Data Generation**, 2023 [[Paper]](http://arxiv.org/abs/2303.01580)
+
+- Yang, Xianjun and Cheng, Wei and Zhao, Xujiang and Petzold, Linda and Chen, Haifeng, **Dynamic Prompting: A Unified Framework for Prompt Tuning**, 2023 [[Paper]](http://arxiv.org/abs/2303.02909)
+
 - Xiao, Guangxuan and Lin, Ji and Han, Song, **Offsite-Tuning: Transfer Learning without Full Model**, 2023 [[Paper]](http://arxiv.org/abs/2302.04870)
 
 
@@ -248,6 +272,8 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
 
 
 ### Dialogue Prompt
+- Madaan, Aman and Tandon, Niket and Clark, Peter and Yang, Yiming, **Memory-assisted prompt editing to improve GPT-3 after deployment**, 2023 [[Paper]](http://arxiv.org/abs/2201.06009)
+
 - Chen, Maximillian and Papangelis, Alexandros and Tao, Chenyang and Kim, Seokhwan and Rosenbaum, Andy and Liu, Yang and Yu, Zhou and Hakkani-Tur, Dilek, **PLACES: Prompting Language Models for Social Conversation Synthesis**, 2023 [[Paper]](http://arxiv.org/abs/2302.03269)
 
 - White, Jules and Fu, Quchen and Hays, Sam and Sandborn, Michael and Olea, Carlos and Gilbert, Henry and Elnashar, Ashraf and Spencer-Smith, Jesse and Schmidt, Douglas C., **A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**, 2023 [[Paper]](http://arxiv.org/abs/2302.11382)
@@ -348,6 +374,14 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
 
 
 ### Extra Modality
+- Wu, Chenfei and Yin, Shengming and Qi, Weizhen and Wang, Xiaodong and Tang, Zecheng and Duan, Nan, **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**, 2023 [[Paper]](https://arxiv.org/abs/2303.04671)
+
+- Camposampiero, Giacomo and Houmard, Loic and Estermann, Benjamin and Mathys, Joël and Wattenhofer, Roger, **Visual Abstraction and Reasoning through Language**, 2023 [[Paper]](http://arxiv.org/abs/2303.04091)
+
+- Shao, Zhenwei and Yu, Zhou and Wang, Meng and Yu, Jun, **Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**, 2023 [[Paper]](http://arxiv.org/abs/2303.01903)
+
+- West, Colin G., **AI and the FCI: Can ChatGPT Project an Understanding of Introductory Physics?**, 2023 [[Paper]](http://arxiv.org/abs/2303.01067)
+
 - Huang, Shaohan and Dong, Li and Wang, Wenhui and Hao, Yaru and Singhal, Saksham and Ma, Shuming and Lv, Tengchao and Cui, Lei and Mohammed, Owais Khan and Liu, Qiang and Aggarwal, Kriti and Chi, Zewen and Bjorck, Johan and Chaudhary, Vishrav and Som, Subhojit and Song, Xia and Wei, Furu, **Language Is Not All You Need: Aligning Perception with Language Models**, 2023 [[Paper]](http://arxiv.org/abs/2302.14045)
 
 - Li, Junnan and Li, Dongxu and Savarese, Silvio and Hoi, Steven, **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**, 2023 [[Paper]](http://arxiv.org/abs/2301.12597)
@@ -377,6 +411,16 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
 
 
 ## Action and Plan
+- Luo, Zhezheng and Mao, Jiayuan and Wu, Jiajun and Lozano-Pérez, Tomás and Tenenbaum, Joshua B. and Kaelbling, Leslie Pack, **Learning Rational Subgoals from Demonstrations and Instructions**, 2023 [[Paper]](http://arxiv.org/abs/2303.05487)
+
+- Zhang, Shun and Chen, Zhenfang and Shen, Yikang and Ding, Mingyu and Tenenbaum, Joshua B. and Gan, Chuang, **Planning with Large Language Models for Code Generation**, 2023 [[Paper]](http://arxiv.org/abs/2303.05510)
+
+- Dorbala, Vishnu Sashank and Mullen Jr., James F. and Manocha, Dinesh, **Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Based Zero-Shot Object Navigation**, 2023 [[Paper]](http://arxiv.org/abs/2303.03480)
+
+- Haldar, Siddhant and Pari, Jyothish and Rai, Anant and Pinto, Lerrel, **Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations**, 2023 [[Paper]](http://arxiv.org/abs/2303.01497)
+
+- Huang, Wenlong and Xia, Fei and Shah, Dhruv and Driess, Danny and Zeng, Andy and Lu, Yao and Florence, Pete and Mordatch, Igor and Levine, Sergey and Hausman, Karol and Ichter, Brian, **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**, 2023 [[Paper]](http://arxiv.org/abs/2303.00855)
+
 - Capitanelli, Alessio and Mastrogiovanni, Fulvio, **A Framework to Generate Neurosymbolic PDDL-compliant Planners**, 2023 [[Paper]](http://arxiv.org/abs/2303.00438)
 
 
@@ -421,6 +465,8 @@ and Scialom, Thomas, **Augmented Language Models: a Survey**, 2023 [[Paper]](htt
 
 - Ahn, Michael and Brohan, Anthony and Brown, et al., **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**, 2022 [[Paper]](http://arxiv.org/abs/2204.01691)
 
+- Shashank Kalakonda, Sai and Maheshwari, Shubh and Kiran Sarvadevabhatla, Ravi, **Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Zero Shot Action Generation**, 2022 [[Paper]](https://ui.adsabs.harvard.edu/abs/2022arXiv221115603S)
+
 - Liang, Jacky and Huang, Wenlong and Xia, Fei and Xu, Peng and Hausman, Karol and Ichter, Brian and Florence, Pete and Zeng, Andy, **Code as Policies: Language Model Programs for Embodied Control**, 2022 [[Paper]](http://arxiv.org/abs/2209.07753)
 
 - Zelikman, Eric and Wu, Yuhuai and Mu, Jesse and Goodman, Noah D., **STaR: Bootstrapping Reasoning With Reasoning**, 2022 [[Paper]](http://arxiv.org/abs/2203.14465)
@@ -437,6 +483,10 @@ and Scialom, Thomas, **Augmented Language Models: a Survey**, 2023 [[Paper]](htt
 - Huang, Wenlong and Abbeel, Pieter and Pathak, Deepak and Mordatch, Igor, **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, 2022 [[Paper]](http://arxiv.org/abs/2201.07207)
 
 ## Reasoning
+- Yang, Sherry and Nachum, Ofir and Du, Yilun and Wei, Jason and Abbeel, Pieter and Schuurmans, Dale, **Foundation Models for Decision Making: Problems, Methods, and Opportunities**, 2023 [[Paper]](http://arxiv.org/abs/2303.04129)
+
+- Yu, Hangyeol and Jeong, Myeongho and Shin, Jamin and Moon, Hyeongdon and Park, Juneyoung and Choi, Seungtaek, **Towards Zero-Shot Functional Compositionality of Language Models**, 2023 [[Paper]](http://arxiv.org/abs/2303.03103)
+
 - Reppert, Justin and Rachbach, Ben and George, Charlie and Stebbing, Luke and Byun, Jungwon and Appleton, Maggie and Stuhlmüller, Andreas, **Iterated Decomposition: Improving Science Q\&A by Supervising Reasoning Processes**, 2023 [[Paper]](http://arxiv.org/abs/2301.01751)
 
 - Blair-Stanek, Andrew and Holzenberger, Nils and Van Durme, Benjamin, **Can GPT-3 Perform Statutory Reasoning?**, 2023 [[Paper]](http://arxiv.org/abs/2302.06100)
@@ -498,6 +548,8 @@ Your Work: Scratchpads for Intermediate Computation with Language Models**, 2021
 
 
 ## Long-text Generation
+- Faltings, Felix and Galley, Michel and Peng, Baolin and Brantley, Kianté and Cai, Weixin and Zhang, Yizhe and Gao, Jianfeng and Dolan, Bill, **Interactive Text Generation**, 2023 [[Paper]](http://arxiv.org/abs/2303.00908)
+
 - Xie, Zhuohan and Cohn, Trevor and Lau, Jey Han, **Can Very Large Pretrained Language Models Learn Storytelling With A Few Examples?**, 2023 [[Paper]](http://arxiv.org/abs/2301.09790)
 
 - Peng, Xiangyu and Cui, Christopher and Zhou, Wei and Jia, Renee and Riedl, Mark, **Story Shaping: Teaching Agents Human-like Behavior with Stories**, 2023 [[Paper]](http://arxiv.org/abs/2301.10107)
@@ -523,6 +575,12 @@ Your Work: Scratchpads for Intermediate Computation with Language Models**, 2021
 
 
 ## Analysis and Boundary 
+- Wang, Jiaan and Liang, Yunlong and Meng, Fandong and Shi, Haoxiang and Li, Zhixu and Xu, Jinan and Qu, Jianfeng and Zhou, Jie, **Is ChatGPT a Good NLG Evaluator? A Preliminary Study**, 2023 [[Paper]](http://arxiv.org/abs/2303.04048)
+
+- Amin, Mostafa M. and Cambria, Erik and Schuller, Björn W., **Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT**, 2023 [[Paper]](http://arxiv.org/abs/2303.03186)
+
+- Zhong, Ruiqi and Zhang, Peter and Li, Steve and Ahn, Jinwoo and Klein, Dan and Steinhardt, Jacob, **Goal Driven Discovery of Distributional Differences via Language Descriptions**, 2023 [[Paper]](http://arxiv.org/abs/2302.14233)
+
 - Wang, Yizhong and Mishra, Swaroop and Alipoormolabashi, Pegah and Kordi, Yeganeh et al., **Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks**, 2022 [[Paper]](http://arxiv.org/abs/2204.07705)
 
 - Chen, Xuanting and Ye, Junjie and Peng, Minlong and Zhou, Jie and Gui, Tao and Zhang, Qi and Huang, Xuanjing, **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks**, 2023 [[Paper]](https://arxiv.org/abs/2303.00293)
@@ -614,6 +672,8 @@ Your Work: Scratchpads for Intermediate Computation with Language Models**, 2021
 - Li, Qintong and Li, Piji and Ren, Zhaochun and Ren, Pengjie and Chen, Zhumin, **Knowledge Bridging for Empathetic Dialogue Generation**, 2021 [[Paper]](http://arxiv.org/abs/2009.09708)
 
 ### Persona
+- Rao, Haocong and Leung, Cyril and Miao, Chunyan, **Can ChatGPT Assess Human Personalities? A General Evaluation Framework**, 2023 [[Paper]](http://arxiv.org/abs/2303.01248)
+
 - Ramirez, Angela and Alsalihy, Mamon and Aggarwal, Kartik and Li, Cecilia and Wu, Liren and Walker, Marilyn, **Controlling Personality Style in Dialogue with Zero-Shot Prompt-Based Learning**, 2023 [[Paper]](http://arxiv.org/abs/2302.03848)
 
 - Lim, Jungwoo and Kang, Myunghoon and Hur, Yuna and Jung, Seungwon and Kim, Jinsung and Jang, Yoonna and Lee, Dongyub and Ji, Hyesung and Shin, Donghoon and Kim, Seungryong and Lim, Heuiseok, **You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona**, 2023 [[Paper]](http://arxiv.org/abs/2301.02401)
@@ -645,6 +705,15 @@ Your Work: Scratchpads for Intermediate Computation with Language Models**, 2021
 
 
 ## Application
+- Kargaran, Amir Hossein and Nikeghbal, Nafiseh and Heydarnoori, Abbas and Schütze, Hinrich, **MenuCraft: Interactive Menu System Design with Large Language Models**, 2023 [[Paper]](http://arxiv.org/abs/2303.04496)
+
+- Polak, Maciej P. and Morgan, Dane, **Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering -- Example of ChatGPT**, 2023 [[Paper]](http://arxiv.org/abs/2303.05352)
+
+- Zhang, Dell and Schilder, Frank and Conrad, Jack G. and Makrehchi, Masoud and von Rickenbach, David and Moulinier, Isabelle, **Making a Computational Attorney**, 2023 [[Paper]](http://arxiv.org/abs/2303.05383)
+
+- Imani, Shima and Du, Liang and Shrivastava, Harsh, **MathPrompter: Mathematical Reasoning using Large Language Models**, 2023 [[Paper]](http://arxiv.org/abs/2303.05398)
+
+- Dai, Haixing and Liu, Zhengliang and Liao, Wenxiong and Huang, Xiaoke and Wu, Zihao and Zhao, Lin and Liu, Wei and Liu, Ninghao and Li, Sheng and Zhu, Dajiang and Cai, Hongmin and Li, Quanzheng and Shen, Dinggang and Liu, Tianming and Li, Xiang, **ChatAug: Leveraging ChatGPT for Text Data Augmentation**, 2023 [[Paper]](http://arxiv.org/abs/2302.13007)
 
 - Qin, Chengwei and Zhang, Aston and Zhang, Zhuosheng and Chen, Jiaao and Yasunaga, Michihiro and Yang, Diyi, **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**, 2023 [[Paper]](http://arxiv.org/abs/2302.06476)    
 
