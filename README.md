@@ -975,6 +975,7 @@ Your Work: Scratchpads for Intermediate Computation with Language Models**, 2021
     - https://github.com/hwchase17/langchain
     - https://promptlayer.com/
     - https://github.com/promptslab/Promptify
+    - https://github.com/future-agi/future-agi
 
 
 - **Prompt Reference**
