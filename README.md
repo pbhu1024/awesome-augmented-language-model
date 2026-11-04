@@ -368,6 +368,10 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
 
 ## Information Seeking
 ### Extra Knowledge
+- Li, Ruochang and Huang, Pengcheng and Liu, Zhenghao and Yan, Yukun and Xie, Huiyuan and Gu, Yu and Yu, Ge and Sun, Maosong,**SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation**,2026, [[Paper]](https://arxiv.org/abs/2606.27786)
+
+- Huang, Pengcheng and Liu, Zhenghao and Yan, Yukun and Zhao, Haiyan and Yi, Xiaoyuan and Chen, Hao and Liu, Zhiyuan and Sun, Maosong and Xiao, Tong and Yu, Ge and Xiong, Chenyan,**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**,2025, [[Paper]](https://arxiv.org/abs/2502.15543)
+
 - Sun, Weiwei and Ren, Pengjie and Ren, Zhaochun,**Generative Knowledge Selection for Knowledge-Grounded Dialogues**,2023, [[Paper]](http://arxiv.org/abs/2304.04836)
 
 - Chen, Zichen and Singh, Ambuj K. and Sra, Misha,**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**,2023, [[Paper]](http://arxiv.org/abs/2303.16537)
@@ -488,6 +492,8 @@ Models**, 2022 [[Paper]](http://arxiv.org/abs/2203.15556)
 
 
 ## Action and Plan
+- Gao, Xingjie and Huang, Pengcheng and Liu, Zhenghao and Yan, Yukun and Wang, Shuo and Chen, Zulong and Qian, Chen and Yu, Ge and Gu, Yu,**Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction**,2026, [[Paper]](https://arxiv.org/abs/2601.12762)
+
 - Lu, Pan and Peng, Baolin and Cheng, Hao and Galley, Michel and Chang, Kai-Wei and Wu, Ying Nian and Zhu, Song-Chun and Gao, Jianfeng,**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**,2023, [[Paper]](http://arxiv.org/abs/2304.09842)
 
 - Qin, Yujia and Hu, Shengding and Lin, Yankai and Chen, Weize and Ding, Ning and Cui, Ganqu et al.,**Tool Learning with Foundation Models**,2023, [[Paper]](http://arxiv.org/abs/2304.08354)
